@@ -16,6 +16,7 @@
 
 | Avatar                                                                            | Name      | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:----------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
+| ![](https://avatars.steamstatic.com/0d869eb35d81f34cc68c1bd6e5b8248dd3e7b1ae.jpg) | Jenny     | [76561199436194335](https://steamcommunity.com/profiles/76561199436194335/) | ❌           | 2025-09-23 11:40:20 |          | 2025-09-27 09:03:06 |
 | ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2025-06-24 15:59:20 |
 | ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT      | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2025-06-24 15:59:20 |
 | ![](https://avatars.steamstatic.com/3b7b2a7118aa2ae041c7178f645a6bad88cb9278.jpg) | Wgyinggg  | [76561199180086991](https://steamcommunity.com/profiles/76561199180086991/) | ✅           | 2025-02-13 06:44:55 |          |                     |
@@ -29,4 +30,3 @@
 | ![](https://avatars.steamstatic.com/394d81adcbdbaffad222f94549009792254d9242.jpg) | XX        | [76561198416377442](https://steamcommunity.com/profiles/76561198416377442/) | ✅           | 2023-01-01 07:00:50 |          |                     |
 | ![](https://avatars.steamstatic.com/361a488e32eca27938b010d9172f1ec30a12f245.jpg) | 天涯难求一只因   | [76561198882613420](https://steamcommunity.com/profiles/76561198882613420/) | ✅           | 2023-01-01 06:54:34 |          |                     |
 | ![](https://avatars.steamstatic.com/3f5e9daea59216d7fe13df4e031d3537580e5e21.jpg) | Smile_bot | [76561199046465135](https://steamcommunity.com/profiles/76561199046465135/) | ✅           | 2025-08-04 14:25:48 |          |                     |
-| ![](https://avatars.steamstatic.com/0d869eb35d81f34cc68c1bd6e5b8248dd3e7b1ae.jpg) | Jenny     | [76561199436194335](https://steamcommunity.com/profiles/76561199436194335/) | ✅           | 2025-09-23 11:40:20 |          |                     |
